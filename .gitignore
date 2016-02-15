@@ -1,9 +1,10 @@
 #2016/02/15 - ignore cocos2d-x folders
+
 Tank/cocos2d/
-Tank/Tank/proj.win32/Debug.win32/
-Tank/Tank/proj.win32/Release.win32/
-Tank/Tank/proj.win32/res/
-Tank/Tank/proj.win32/Tank.sdf
+Tank/proj.win32/Debug.win32/
+Tank/proj.win32/Release.win32/
+Tank/proj.win32/res/
+Tank/proj.win32/Tank.sdf
 
 # Compiled Object files
 *.slo
